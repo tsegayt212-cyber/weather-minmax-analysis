@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Generated output
+output/
+*.png
+!docs/*.png
+*.html
+
+# Large files
+demo/*.mp4
+demo/*.gif
+demo/*.webm
+
+# Documents (generated)
+*.docx
+*.pdf
+~$*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Old duplicate folders
+weather_minmax/
+project report/
