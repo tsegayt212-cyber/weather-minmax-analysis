@@ -13,6 +13,7 @@ env/
 # Generated output
 output/
 *.png
+!docs/screenshots/*.png
 !docs/*.png
 *.html
 
